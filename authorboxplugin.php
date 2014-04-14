@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: Author Info
+  Plugin Name: Master Mind Author Box
   Plugin URI: http://support.mastermindtechsolutions.com/
   Description: Add the author box like adding the author information on each category and post.
   Version: 1.0

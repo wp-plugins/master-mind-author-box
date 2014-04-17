@@ -3,8 +3,7 @@ Contributors: viky081
 Donate link: http://support.mastermindtechsolutions.com/?product=support-us
 Tags: author, authorbox, post author, author information, author info, category, post, gravatar, author box, master mind, mastermind
 Requires at least: 3.0.1
-Tested up to: 3.8.2
-Stable tag: /trunk/
+Tested up to: 3.9Stable tag: /trunk/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
